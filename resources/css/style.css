@@ -1,0 +1,49 @@
+html {
+    font-family: "Roboto";
+}
+
+body {
+    background-color: #16181c;
+    color: lightgray;
+}
+
+header {
+    padding-left: 3%;
+}
+
+header img {
+    height: 100%;
+    margin: 0.25rem;
+}
+
+#xs400-badge {
+    height: 70%;
+    padding-bottom: 0.3rem;
+}
+
+#uscustom-badge {
+    height: 60%;
+    padding-bottom: 0.6rem;
+}
+
+#title-imgs-container {
+    height: 4rem;
+    position: relative;
+}
+
+nav li {
+    display: inline-grid;
+    padding-inline: 0.5rem;
+}
+
+ul {
+    padding-inline-start: 0;
+}
+
+li h3 {
+    display: inline-block;
+}
+
+.gallery-img {
+    width: 100%;
+}

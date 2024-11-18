@@ -33,6 +33,7 @@ header img {
 nav li {
     display: inline-grid;
     padding-inline: 0.5rem;
+    border-bottom: outset;
 }
 
 ul {
@@ -57,4 +58,16 @@ li h3 {
 
 .status-img {
     width: 100%;
+}
+
+a {
+    color: silver;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+#logo {
+    text-decoration: none;
 }

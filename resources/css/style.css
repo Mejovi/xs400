@@ -71,3 +71,7 @@ a {
 #logo {
     text-decoration: none;
 }
+
+#specs-title {
+    margin: 0 auto;
+}
